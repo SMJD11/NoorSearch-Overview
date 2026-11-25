@@ -1,6 +1,5 @@
 # NoorSearch
 
-> **Note:** This public repository serves as an overview and documentation showcase for **NoorSearch**. The application source code is maintained in a private repository.
 
 **NoorSearch** is a bilingual (English & Arabic) semantic search engine and digital library explorer built for classical Islamic texts, Arabic lexical research, and personal scholarly PDFs. Rather than relying on exact keyword matches, NoorSearch understands conceptual meaning across languages—allowing users to search in English or Arabic and retrieve relevant passages even across language boundaries.
 
